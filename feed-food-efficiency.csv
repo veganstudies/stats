@@ -1,4 +1,4 @@
-species,variable,mean,stdev
+kind,variable,mean,stdev
 소,fcr_live,14,4
 닭,fcr_live,1.9,0.4
 돼지,fcr_live,3.1,1.3
