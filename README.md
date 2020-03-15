@@ -7,7 +7,8 @@
 먹은 사료 대 생산된 에너지의 비율. 돼지, 닭, 달걀, 우유, 소의 칼로리 및 단백질 기준 에너지 효율. 미국 2000년-2010년 기준 추정치.
 
 * 파일: [feed-food-efficiency.csv](feed-food-efficiency.csv)
-* 출처: [Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes](https://iopscience.iop.org/article/10.1088/1748-9326/11/10/105002)
+* 변수: `fcr_live`, `fcr_edible`, `fcr_consumed`는 `content / intake` 단위, 나머지는 `intake / content`
+* 출처: [Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes](https://iopscience.iop.org/article/10.1088/1748-9326/11/10/105002)에 인용된 USDA 수치
 * 수집 방법: 논문의 수치를 수기로 입력
 
 ## 도축 통계
